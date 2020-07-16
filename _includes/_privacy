@@ -1,0 +1,8 @@
+<aside class="bg-dark">
+      <div class="container text-center">
+          <div class="call-to-action">
+              <h2>Privacy!</h2>
+              <a href="#" class="btn btn-default btn-xl wow tada">Our apps do not collect, store, or transmit information that can be used to identify you.</a>
+          </div>
+      </div>
+  </aside>
